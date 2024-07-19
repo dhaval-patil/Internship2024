@@ -93,8 +93,8 @@ This week, I developed a Stopwatch web application. The project involved researc
 **Plans for next week:**
 - Next week, the focus will shift to creating a Weather web application that lets users view current weather conditions, search for different locations, and refresh the weather data using an API.
 
-  **Summary:**
-  Created a Tic-Tac-Toe web application. Built the game board, implemented game logic for alternating turns and determining game outcomes, and styled the UI. Added feedback for winning combinations and ensured the game resets correctly.
+**Summary:**
+Created a Tic-Tac-Toe web application. Built the game board, implemented game logic for alternating turns and determining game outcomes, and styled the UI. Added feedback for winning combinations and ensured the game resets correctly.
 
 ## 4️⃣ Week 4
 
