@@ -1,0 +1,38 @@
+*{
+    background-color: rgb(39, 47, 61);
+}
+
+.cell{
+    width: 75px;
+    height: 75px;
+    border: 2px solid;
+    box-shadow: 0 0 0 2px;
+    line-height: 75px;
+    font-size: 50px;
+    cursor: pointer;
+}
+#gameContainer{
+    font-family: "Chivo Mono", monospace;
+    text-align: center;
+    color: white;
+}
+#cellContainer{
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    width: 225px;
+    margin: auto;
+}
+
+#restartBtn{
+    padding: 0.7rem;
+    background-color: brown;
+    color: white;
+    font-family: "Permanent Marker", cursive;
+    border: 3px;
+    border-radius: 5px;
+}
+
+#restartBtn:hover{
+    background-color: grey;
+    cursor: pointer;
+}
